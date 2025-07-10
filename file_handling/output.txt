@@ -1,1 +1,8 @@
-
+This file has been created as part of my C programming internship assignment.
+I’m learning how to perform basic file operations like creating a file, writing text to it, appending more data, and then reading it back. 
+It's interesting to see how the data stays even after the program ends, which is different from variables that vanish after execution. 
+This is my first time doing something like this using actual file pointers and modes in C, and it feels like a small step into real-world programming.
+Now I’m adding this extra paragraph just to try out the append functionality. 
+It should come right after the previous text without deleting anything. 
+I think I’m getting the hang of how 'a' mode works in fopen(). 
+This exercise really helped me understand why file handling is so important in programming beyond just printing things to the terminal.
