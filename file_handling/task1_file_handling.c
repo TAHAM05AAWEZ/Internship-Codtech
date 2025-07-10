@@ -3,7 +3,7 @@
 
 int main() {
     FILE *filePointer;          // Declare a FILE pointer for file operations
-    char filename[] = "data.txt";  // File to be created, written to, read, and appended
+    char filename[] = "output.txt";  // File to be created, written to, read, and appended
     char buffer[1000];          // Buffer to hold user input
     int choice;                 // User menu selection
 
